@@ -1,7 +1,7 @@
 {
   "name": "muthu-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Muthumuthu007.github.io",
+  "homepage": "https://Muthumuthu007.github.io/Personal-Portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
